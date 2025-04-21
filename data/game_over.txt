@@ -1,0 +1,12 @@
+Mission failed. The bomb has detonated. All crew members lost.
+The station has been compromised. The bomb went off... we didn’t make it.
+Explosion detected. The mission is over, and the crew is lost.
+Failure. The bomb detonated, and we didn’t survive.
+We couldn’t stop it. The bomb exploded, and all crew members are gone.
+Mission compromised. The bomb detonated, and there’s no one left.
+The station is lost. The bomb exploded, taking all of us with it.
+Explosion imminent. We couldn’t stop it in time. All crew members are gone.
+The bomb has detonated. Mission failure confirmed. The crew is lost.
+The bomb went off. The crew didn't make it. Mission failure.
+All crew members lost. The mission has failed. Explosion confirmed.
+The station has fallen. The bomb detonated. We are all gone.

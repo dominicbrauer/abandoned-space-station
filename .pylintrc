@@ -1,0 +1,7 @@
+# Pylint had trouble at handling module imports correctly.
+# This is supposed to fix it by adding the project path to where modules are searched.
+[MASTER]
+init-hook='import sys; sys.path.append(".")'
+# I like the indentations to be only two spaces wide. This changes the default '4' to '2'
+[FORMAT]
+indent-string="  "

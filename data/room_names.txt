@@ -1,0 +1,30 @@
+Command Center
+Observation Deck
+Crew Quarters
+Airlock
+Medical Bay
+Cargo Bay
+Hydroponics Lab
+Engine Room
+Security Room
+Recreation Room
+Storage Room
+Library/Study Room
+Waste Processing Room
+Laboratory
+Dining Hall
+Air Filtration Room
+Power Distribution Room
+Maintenance Room
+Escape Pod Bay
+Recycling Room
+Server Room
+Control Room for Robotics
+Communication Room
+Engineering Workshop
+Zero-Gravity Room
+Observation Lounge
+Decompression Room
+Science Research Lab
+Biohazard Storage Room
+Hallways
