@@ -26,10 +26,10 @@ After you've installed Python on your system, you can start the game by running 
 
 ## Gameplay
 
-As mentioned before, **Abandoned Space Station** is a modified version of *Minesweeper*. Therefore, the general gameplay is the same in both games.
+As mentioned before, **Abandoned Space Station** is a modified version of *Minesweeper*. Therefore, the general gameplay follows the original:
 
 - There is a cursor indicating which tile is targeted by the player. With `WASD`, it can be moved to any location on the playing field.
-- With `X`, the player can mark the targeted tile if he's sure it contains a bomb
+- With `X`, the player can mark the targeted tile if he's sure it contains a bomb.
 - With `C`, the targeted tile is scanned. If it is safe, a digit indicating how many bombs are located around that tile gets shown. If an infested tile is scanned, the game is over.
 - The player must use the given information to determine which tiles contain a bomb.
 - If all tiles except the ones with a bomb are revealed, the player wins. The space station is secured.
@@ -44,7 +44,6 @@ Just recreating *Minesweeper* wouldn't be fun, right? Given that the game's sett
 - The terminal uses colors and symbols to indicate safe rooms and hazards.
 - The user interface contains an overview about the game controls.
 - Each action results in a random story text being displayed, which enhances immersion and brings life into the game.
-WSL
 
 ## Dependencies
 
