@@ -18,7 +18,7 @@ To increase the overall experience and make the game feel more alive, there are 
 - Besides the indicator being shown when revealing a room, there is also a feedback text about the current scan. Based on the situation, this will be a different text. Rooms with no bombs around show other messages than the ones being surrounded by bombs.
 - Both winning the game by revealing all safe tiles or losing by scanning an infested tile lead to an ending text about how the mission went.
 
-*All story elements come in different variations and are randomly chosen when displayed. They can all be found in `data/room_names.txt`*
+*All story elements come in different variations and are randomly chosen when displayed. They can all be found in `data/`*.
 
 ## Libraries
 
@@ -133,6 +133,7 @@ By running `./coverage.sh` in the root directory, all unit tests are being run a
 | tests/test_playing_field.py  | 18         | 0       | 0        | 100%     |
 | tests/test_text_formats.py   | 12         | 0       | 0        | 100%     |
 | **Total**                    | 452        | 0       | 2        | 100%     |
+
 After a lot of research, I haven't found a way to test the following part:
 ```python
 # main.py
